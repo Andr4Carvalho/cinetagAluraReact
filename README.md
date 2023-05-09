@@ -1,0 +1,1 @@
+Esse repositório foi criado durante os estudos ddo curso React: praticando React com Js na Plataforma Alura Link do curso: https://cursos.alura.com.br/course/react-praticando-react-js
